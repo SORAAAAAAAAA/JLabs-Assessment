@@ -1,4 +1,0 @@
-﻿app/components/home/HomeClient.tsx(4,34): error TS2307: Cannot find module '../hooks/useSearchHistory' or its corresponding type declarations.
-app/components/home/HomeClient.tsx(5,28): error TS2307: Cannot find module '../hooks/useGeoData' or its corresponding type declarations.
-app/components/home/HomeClient.tsx(8,24): error TS2307: Cannot find module './Header' or its corresponding type declarations.
-app/login/page.tsx(4,23): error TS2307: Cannot find module '../../actions/auth' or its corresponding type declarations.
